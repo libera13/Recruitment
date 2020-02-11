@@ -1,6 +1,8 @@
 # Recruitment
 
-Infosys_junior_python_analyst
+Recruitment test for:
+
+Junior python analyst in Infosys
 
 8. Phone Calls
 
@@ -8,10 +10,15 @@ Load the data from the "phone_data.csv" file. It contains 830 records that
 describe phonecalls in a 5 month period. The files main columns are:
 
 date - date and time of the record
+
 duration - duration of the call (in seconds)
+
 item - description of the record
+
 month - month of settling ("YYYY-MM")
+
 network - the name of the mobile network
+
 network_type - type of the connection (mobile phone, voice mail etc.)
 
 9. Single Game
@@ -44,10 +51,15 @@ pyplot. You decide to answer that question through smart simulation.
 Paste code of a script simulating single game and screen of end chart
 (with throws on X axis and floors on Y axis). Something like this:
 
+![RESULT](https://iili.io/H6ELYX.png)
+
+
 10. 100 Game
 
 Paste the code of a script simulating 100 game rounds and an image of a
 chart showing all rounds (x axis - attempts, y axis - floors)
+
+![RESULT](https://iili.io/H6EQvn.png)
 
 11. Histogram
 
@@ -55,3 +67,5 @@ Modify the script so that it simulates the game 5000 times and visualize
 the results as a histogram (of the last floors that we achieved during
 a game). Paste the code of the script as the solution along with a
 picture of the histogram.
+
+![RESULT](https://iili.io/H6EZps.png)
